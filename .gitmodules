@@ -1,0 +1,3 @@
+[submodule "bingo"]
+	path = bingo
+	url = https://github.com/tcarreira/bingo.git
