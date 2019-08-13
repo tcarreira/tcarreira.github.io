@@ -6,4 +6,4 @@
 	url = https://github.com/tcarreira/presentations.git
 [submodule "ubucon-europe-2019"]
 	path = ubucon-europe-2019
-	url = git@github.com:tcarreira/ubucon-europe-2019.git
+	url = https://github.com/tcarreira/ubucon-europe-2019.git
