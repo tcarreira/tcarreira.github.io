@@ -1,9 +1,0 @@
-[submodule "bingo"]
-	path = bingo
-	url = https://github.com/tcarreira/bingo.git
-[submodule "presentations"]
-	path = presentations
-	url = https://github.com/tcarreira/presentations.git
-[submodule "ubucon-europe-2019"]
-	path = ubucon-europe-2019
-	url = https://github.com/tcarreira/ubucon-europe-2019.git
